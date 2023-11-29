@@ -72,14 +72,4 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
-## Imágenes de Harry Potter
-
-![hp8](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/2a07309a-126d-45de-8820-79f8a5544607)
-![hp7](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/a362d94c-ea9b-4e98-ab42-27d83d335aab)
-![hp6](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/02cc5abc-2667-454b-86a3-70a41bdb8883)
-![hp5](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/b3fbe194-ef98-4447-a116-49890be61229)
-![hp4](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/13c29fcf-120d-4005-9fb3-109b25c0cb92)
-![hp3](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/a5afc5f2-412d-42ec-84d1-56d1c3e419b5)
-![hp2](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/704fd95f-79b9-4574-a3a5-8d1a5366fc69)
-![hp1](https://github.com/GloriaCoralCerecedo/SitioWebPHP/assets/75102777/b2261a93-73e2-48d1-bfaf-15a038d82321)
 
